@@ -8,3 +8,5 @@
 3.使用art-template模板引擎技术开发
 
 4.使用twbs-pagination分页插件
+
+5.查看前请先导入sql文件夹内的sql文件
